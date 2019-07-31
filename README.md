@@ -1,1 +1,3 @@
-# saint-gobain
+# Useful scripts in corporate environment
+
+AD, VBA, Excel, ...
